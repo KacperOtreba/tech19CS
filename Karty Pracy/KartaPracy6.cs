@@ -1,4 +1,4 @@
-﻿// 1.
+// 1.
 /*int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
 int c = Convert.ToInt32(Console.ReadLine());
@@ -22,7 +22,7 @@ for (int i = 100; i < 1000; i++)
 }
 Console.Write(suma + " ");
 */
-// 3. (Easy) Oblicz ilość liczb cztrocyfrowych będącymi wielokrotnościami największej liczby dwucyfrowej podzielnej przez 7. 
+// 3. (Easy) Oblicz ilość liczb cztrocyfrowych będącymi wielokrotnościami największej liczby dwucyfrowej podzielnej przez 7. 
 //           Wielokrotność, będącą podstawą rozwiązania tego zadania, znajdź za pomocą pętli
 /*Console.WriteLine("Zadanie 3");
 int podzielnik = 0;
